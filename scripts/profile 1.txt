@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My page</title>
+</head>
+    <body>
+        <h1>Communication Research</h1>
+            <p>This page highlghts some of the work I do at the Communication and Psychophysiology lab at Ohio State University. I hope you enjoy it!</p>
+            <p>My main focus is on developing new techniques to study complex communication behaviour. 
+			This is meant to advance how we investigate key social phenomenon past typical lab experiments (factorial design) and survey approaches. 
+			I am primarily exploring the use of web based designs using java script, python, and other useful programming techniques.</p>
+            <p>I also focus on mathematical modeling of human decision making and attention processes. More on this soon.</p>
+            <img src="http://www.vetprofessionals.com/catprofessional/images/home-cat.jpg"/>
+            <a href="http://www.thedocc.com">Visit the Caplab</a>
+            <a href="http://www.comm.ohio-state.edu/people/graduate-students/userprofile/ccooper.html">See me at OSU</a>
+    </body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cody Cooper</title>
+	</head>
+	<body>
+	    <img src="http://www.comm.ohio-state.edu/images/comprofiler/213_4e73b2d76dc7b.jpg">
+	    <p>I do reserach and other social sciencey stuff.</p>
+	        <ul>
+	            <li>Research Interests</li>
+	               <ul>
+	                    <li>Media multitasking</li>
+	                    <li>Social Decision Making</li>
+	                    <li>Mathematical models of communication</li>
+	                    <li>New research methodologies.technologies</li>
+	               </ul>
+	            <li>Research Papers</li>
+	                <ol>
+	                    <li>Cognitive effects of emotional content during media multitasking</li>
+	                    <li>Communication can reduce stereotypeing decisions</li>
+	                    <li>Intro to bayesian stats for communication scholars</li>
+	                    <li>Intro to computer programming for communication scholars (working paper)</li>
+	               </ol>
+	            <li>Skills</li>
+	                <ol>
+	                    <li>R data analysis and visualization</li>
+	                    <li>Matlab data analysis and visualization</li>
+	                    <li>Experiment programming in javascript and python</li>
+	               </ol>
+	            <li>Hobbies</li>
+	                <ul>
+	                    <li>Playing the piano</li>
+	                    <li>Fishing and hiking</li>
+	               </ul>
+	</body>
+</html>
